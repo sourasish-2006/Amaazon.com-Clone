@@ -4,7 +4,7 @@
 A fully responsive-ready, static front-end clone of the Amazon homepage built using pure HTML and CSS. This project focuses on UI/UX principles, CSS Flexbox layout, and modern hover interactions.
 
 ## 🚀 Live Demo
-*(You can add a link here later if you host it on GitHub Pages or Vercel)*
+*(https://sourasish-2006.github.io/Amazon.com-Clone/)*
 
 ## 🛠️ Tech Stack
 * **HTML5:** Semantic markup and structure.
